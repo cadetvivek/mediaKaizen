@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Your Name - Initial work - [YourGitHub](https://github.com/cadetvivek)
 
 ## 🙏 Acknowledgments
 
@@ -142,8 +142,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@marketingpro.com or join our Slack channel.
+For support, email kushwahvivek805@gmail.com or join our Slack channel.
 
 ---
 
-Made with ❤️ by Your Team Name 
+Made with ❤️ by Vivek 
